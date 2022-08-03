@@ -1,0 +1,15 @@
+http://localhost/ApiUsuario/api/usuarios
+{
+  "Id":"3",
+  "codigoEmpleado": "RS155",
+  "pais": "Mexico",
+  "titulo": "Señorita",
+  "primerNombre": "Karla",
+  "segundoNombre": "Maria",
+  "primerApellido": "Lopez",
+  "segundoApellido": "Cabrera",
+  "email": "kmlcabrera@mail.com",
+  "fechaNacimiento": "05-05-2000",
+  "telefonoMovil": "40501010"
+}
+

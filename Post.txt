@@ -1,0 +1,13 @@
+http://localhost/ApiUsuario/api/usuarios
+{
+  "codigoEmpleado": "RS155",
+  "pais": "Canada",
+  "titulo": "Señorita",
+  "primerNombre": "Karla",
+  "segundoNombre": "Maria",
+  "primerApellido": "Lopez",
+  "segundoApellido": "Cabrera",
+  "email": "kmlcabrera@mail.com",
+  "fechaNacimiento": "05-05-2000",
+  "telefonoMovil": "40501010"
+}
